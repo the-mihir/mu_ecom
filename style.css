@@ -1,0 +1,16 @@
+
+
+.nav-link{
+    text-transform: uppercase;
+    color: black;
+}
+
+.orange{
+    background-color: #FCEBE9;
+    padding:50px;
+    border-radius: 2rem;
+}
+
+header{
+    margin-top: 60px;
+}
